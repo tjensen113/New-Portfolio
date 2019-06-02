@@ -22,6 +22,7 @@ body {
   h1,
   h2,
   h3,
+  
   p {
     margin-bottom: 20px;
   }
@@ -58,9 +59,10 @@ body {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #ffffff;
+    color: #4aaaa5;
     background: #ffffff;
     border-bottom: 2px solid #cccccc;
+    
   }
   
   #logo {
@@ -71,7 +73,7 @@ body {
     font-size: 30px;
     font-weight: 700;
     line-height: 90px;
-    color: #ffffff;
+    color: #4aaaa5;
     text-align: center;
     text-decoration: none;
     background: #4aaaa5;
